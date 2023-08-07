@@ -196,3 +196,26 @@ nav {
 .hidden {
   display: none;
 }
+
+#contact-info {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
+#contact-info h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.contact-details {
+  font-size: 16px;
+}
+
+.contact-details p {
+  margin-bottom: 5px;
+}
+
+.contact-details strong {
+  font-weight: bold;
+}
